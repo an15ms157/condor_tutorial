@@ -5,7 +5,9 @@ High Throughput Compuing (HTC)
 – Running multiple independent
 instances of software on multiple
 processors at the same time
+
 – Long time periods
+
 – Generally runs on clusters of
 commodity hardware
 
@@ -15,7 +17,9 @@ commodity hardware
 Choosing a “Universe” for your job
 
 › Make your job “batch-ready”
+
 › Creating a submit description file
+
 › Run condor_submit on your submit description file
 
 
