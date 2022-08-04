@@ -43,5 +43,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Inspiration:
+[Website 1](https://services.ncl.ac.uk/media/sites/servicesites/itserviceold/communicationcollaborationandresearch/condor/Worked_Condor_Example_Simple_C_Add.pdf)
+[Website 2](https://www.cs.cmu.edu/~jonas/doc/CondorTutorial_SInRG_Workshop.pdf)
