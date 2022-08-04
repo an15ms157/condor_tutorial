@@ -14,11 +14,11 @@ commodity hardware
 
 ## Getting started: How to submit jobs
 
-Choosing a “Universe” for your job
+› Choosing a “Universe” for your job: Standard, Grid, Vanilla
 
-› Make your job “batch-ready”
+› Make your job “batch-ready” : non-interactive with organised data
 
-› Creating a submit description file
+› Creating a submit description file: A plain ASCII text file -> condor_example
 
 › Run condor_submit on your submit description file
 
