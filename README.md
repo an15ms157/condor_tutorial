@@ -3,22 +3,21 @@
 High Throughput Compuing (HTC)
 
 – Running multiple independent
-instances of so?ware on multiple
+instances of software on multiple
 processors at the same time
-
 – Long time periods
-
 – Generally runs on clusters of
 commodity hardware
 
 
-## Installation
+## Getting started: How to submit jobs
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Choosing a “Universe” for your job
 
-```bash
-pip install foobar
-```
+› Make your job “batch-ready”
+› Creating a submit description file
+› Run condor_submit on your submit description file
+
 
 ## Usage
 
