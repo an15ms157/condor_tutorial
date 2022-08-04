@@ -1,6 +1,16 @@
-# Foobar
+# HT Condor
 
-Foobar is a Python library for dealing with word pluralization.
+High Throughput Compuing (HTC)
+
+– Running multiple independent
+instances of so?ware on multiple
+processors at the same time
+
+– Long time periods
+
+– Generally runs on clusters of
+commodity hardware
+
 
 ## Installation
 
